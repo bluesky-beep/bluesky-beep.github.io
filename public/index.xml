@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Welcome</title>
+    <title>Coming soon</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Welcome</description>
+    <description>Recent content on Coming soon</description>
+    <image>
+      <title>Coming soon</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2024 16:18:01 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 08 Aug 2024 16:18:01 +0900</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I have a good collection of things I am interested or excited about (Science, Human Psychology, History, Science Fiction, art, poetry, music, food and most importantly the uncertainty and oddness in our Universe. And my love to have endless conversations about all of this. What makes me even more excited is the combination of all of these things. It is often good and a relief that you might not be the only one thinking in a particular way.</description>
+    </item>
   </channel>
 </rss>
