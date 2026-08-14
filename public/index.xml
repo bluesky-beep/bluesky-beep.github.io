@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ANAMIKA ANAND</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on ANAMIKA ANAND</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:58:00 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why I Built This Site (And What I Hope to Do With It)?</title>
-      <link>//localhost:1313/posts/first_post/</link>
-      <pubDate>Sun, 17 Aug 2025 14:58:00 +0900</pubDate>
-      <guid>//localhost:1313/posts/first_post/</guid>
-      <description>This space is created to keep a track of everything I&amp;rsquo;m interested in and have worked on such as past projects, ongoing ideas, and topics that don&amp;rsquo;t fit any where else (yet). It is a personal archive, a learning log and hopefully to connect with others who are exploring similar questions. Some of the projects I&amp;rsquo;ve worked especially during my PhD might be useful to others working on enviornmental data, satellite imagery, or spatial modeling.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Tue, 05 Aug 2025 23:09:14 +0900</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Hi, I&amp;rsquo;m Anamika Welcome to this page!&#xA;Afters months of procrastination, I finally got around to building and deploying this site. The site is built using Hugo and is currently hosted on GitHub. I plan to gradually upload some important notes and personal projects here. Right now, I’m based in Japan and in the final year of my PhD at the Climate Change System Research Institute, The University of Tokyo.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/cv/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cv/cv/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>ANAMIKA ANAND</title>
+		<link>//localhost:1313/</link>
+		<description>Recent content on ANAMIKA ANAND</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Readings from 2024–present</title>
+				<link>//localhost:1313/posts/third_post/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/posts/third_post/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/IMG_5014.jpg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;During my doctoral studies I would often feel frustrated for not having enough time for non academic readings. Fortunately, the transition gap from student to working allowed me some time where I could prioritiz reading. Looking back in last two years, I&amp;rsquo;m amazed how certain books found me at exactly the right moment. 2024-2025 in particular was a deeply transformative phase of my life, and a handful of books I read during that time moved me in ways I didn&amp;rsquo;t expect.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Why I Built This Site (And What I Hope to Do With It)?</title>
+				<link>//localhost:1313/posts/first_post/</link>
+				<pubDate>Sun, 17 Aug 2025 14:58:00 +0900</pubDate>
+				<guid>//localhost:1313/posts/first_post/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;This space is created to keep a track of everything I&amp;rsquo;m interested in and have worked on such as past projects, ongoing ideas, and topics that don&amp;rsquo;t fit any where else (yet). It is a personal archive, a learning log and hopefully to connect with others who are exploring similar questions. Some of the projects I&amp;rsquo;ve worked especially during my PhD might be useful to others working on enviornmental data, satellite imagery, or spatial modeling.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>//localhost:1313/about/</link>
+				<pubDate>Tue, 05 Aug 2025 23:09:14 +0900</pubDate>
+				<guid>//localhost:1313/about/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/crop_sip.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;hi-im-anamika&#34;&gt;Hi, I&amp;rsquo;m Anamika&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Welcome to this page!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Afters months of procrastination, I finally got around to building and deploying this site. The site is built using Hugo and is currently hosted on GitHub.&#xA;I plan to gradually upload some important notes and personal projects here.&#xA;Right now, I’m based in Japan and in the final year of my PhD at the Climate Change System Research Institute, The University of Tokyo. As I navigate this transition phase and explore what comes next, this space will serve as a place to document and share my journey, thoughts, and work.&#xA;I believe that learning should be a phenomenal experience and not a mechanical one. I enjoy exploring things at my own pace, often discovering new ways to view the seemingly simple. I like  to understand how our climate is evolving and how we can better observe and interpret those changes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>//localhost:1313/cv/cv/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/cv/cv/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

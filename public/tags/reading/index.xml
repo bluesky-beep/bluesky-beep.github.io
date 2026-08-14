@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Reading on ANAMIKA ANAND</title>
+		<link>//localhost:1313/tags/reading/</link>
+		<description>Recent content in Reading on ANAMIKA ANAND</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Readings from 2024–present</title>
+				<link>//localhost:1313/posts/third_post/</link>
+				<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/posts/third_post/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/IMG_5014.jpg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;During my doctoral studies I would often feel frustrated for not having enough time for non academic readings. Fortunately, the transition gap from student to working allowed me some time where I could prioritiz reading. Looking back in last two years, I&amp;rsquo;m amazed how certain books found me at exactly the right moment. 2024-2025 in particular was a deeply transformative phase of my life, and a handful of books I read during that time moved me in ways I didn&amp;rsquo;t expect.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
