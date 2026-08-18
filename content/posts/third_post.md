@@ -4,10 +4,10 @@ date = 2026-07-21
 draft = false
 
 tags = ["books", "reading", "reflection"]
-+++
++++ 
 
 <!-- ![alt](/images/IMG_5014.jpg)   -->
-{{< figure src="/images/IMG_5014.jpg" alt="..." width="500" loading="lazy" >}}
+{{< figure src="/images/IMG_5014.jpg" alt="A library bookshelf in Kyoto, Japan" width="400" loading="lazy" caption="📍 Image is from one of my stays in Kyoto, Japan  during a work trip 2024" >}}
 
 During my doctoral studies I would often feel frustrated for not having enough time for non academic readings. Fortunately, the transition gap from student to working allowed me some time where I could prioritiz reading. Looking back in last two years, I'm amazed how certain books found me at exactly the right moment. 2024-2025 in particular was a deeply transformative phase of my life, and a handful of books I read during that time moved me in ways I didn't expect.  
 
